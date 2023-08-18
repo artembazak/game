@@ -3,7 +3,7 @@ import turtle, random
 
 
 
-player1 = turtle.Turtle()
+
 player2 = turtle.Turtle()
 
 
